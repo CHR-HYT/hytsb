@@ -1,6 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <int name="level" value="50" />
-    <int name="ball" value="9999" />
-    <int name="diamond" value="9999" />
-</map>
