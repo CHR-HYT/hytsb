@@ -1,0 +1,8 @@
+{
+  "archives": {
+    "常规模式1": "archives/常规模式1.xml",
+    "常规模式2": "archives/常规模式2.xml",
+    "挑战模式": "archives/挑战模式.xml"
+  },
+  "appVersion": "陷落舞台"
+}
